@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Not+all+those+who+wander+are+lost;The+world+is+full+of+magic+things;To+strive,+to+seek,+to+find,+and+not+to+yield" alt="Typing SVG" />
 </p>
----
+
 
 ### 🧑‍💻 关于我
 
