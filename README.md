@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/greenhandatsjtu?ratio=0.75)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/PlutoNebula?ratio=0.75)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
 
 ---
 
