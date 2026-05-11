@@ -1,7 +1,7 @@
 # 👋 你好，我是 PlutoNebula
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=全栈开发者;开源爱好者;终身学习者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=全栈开发者;开源爱好者;终身学习者" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <i>“唯有热爱，方能卓越。—— 乔布斯”</i>
+  <i>”The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.” — Robert Frost</i>
 </p>
