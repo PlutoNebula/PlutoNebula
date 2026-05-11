@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm PlutoNebula
+# 👋 你好，我是 PlutoNebula
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=全栈开发者;开源爱好者;终身学习者" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,15 +10,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 关于我
 
-- 🔭 I'm currently working on **something cool**
-- 🌱 I'm currently learning **Rust & Go**
-- 💬 Ask me about **React, TypeScript, Python**
-- 📫 Reach me at **your-email@example.com**
-- ⚡ Fun fact: **I debug with console.log**
+- 🔭 正在忙 **一些有意思的项目**
+- 🌱 正在学习 **Rust 和 Go**
+- 💬 有事可以聊 **React、TypeScript、Python**
+- 📫 联系方式 **your-email@example.com**
+- ⚡ 冷知识：**我用 console.log 调 bug**
 
-### 🛠 Tech Stack
+### 🛠 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub 统计
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlutoNebula&theme=tokyonight" />
@@ -44,14 +44,14 @@
   <img src="https://streak-stats.demolab.com/?user=PlutoNebula&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 贡献贪吃蛇
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PlutoNebula/PlutoNebula/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/PlutoNebula/PlutoNebula/output/snake.svg" alt="贪吃蛇动画" />
 </p>
 
 
-### 📈 Contribution Graph
+### 📈 贡献图表
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PlutoNebula&theme=tokyo-night&hide_border=true" />
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <i>“The only way to do great work is to love what you do.” — Steve Jobs</i>
+  <i>“唯有热爱，方能卓越。—— 乔布斯”</i>
 </p>
