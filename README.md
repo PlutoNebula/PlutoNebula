@@ -13,23 +13,18 @@
 ### 🧑‍💻 关于我
 
 - 🔭 正在忙 **一些有意思的项目**
-- 🌱 正在学习 **Rust 和 Go**
+- 🌱 正在学习 **Go**
 - 💬 有事可以聊 **React、TypeScript、Python**
-- 📫 联系方式 **your-email@example.com**
-- ⚡ 冷知识：**我用 console.log 调 bug**
-
+- 📫 联系方式 **642476404@qq.com**
 ### 🛠 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=333" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=333" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
 </p>
 
