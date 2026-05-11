@@ -10,7 +10,7 @@
 - 🔭 正在忙 **一些有意思的项目**
 - 🌱 正在学习 **Go**
 - 📫 联系方式 **642476404@qq.com**
-- 🌐 博客 **[plutoze.xyz](https://www.plutoze.xyz)**
+- 🌐 博客 **[plutoze.xyz](http://www.plutoze.xyz)**
 ### 🛠 技术栈
 
 **前端**
