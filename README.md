@@ -3,17 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Not+all+those+who+wander+are+lost;The+world+is+full+of+magic+things;To+strive,+to+seek,+to+find,+and+not+to+yield" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PlutoNebula.PlutoNebula&left_color=1B1B2F&right_color=E8326E&left_text=Visitors" />
-  <a href="https://www.plutoze.xyz">
-    <img src="https://img.shields.io/badge/Blog-plutoze.xyz-FF6B6B?style=flat-square&logo=blogger&logoColor=fff&labelColor=1B1B2F" />
-  </a>
-  <a href="https://github.com/PlutoNebula">
-    <img src="https://img.shields.io/github/followers/PlutoNebula?style=flat-square&logo=github&labelColor=1B1B2F&color=58A6FF&label=Follow" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 关于我
