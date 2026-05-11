@@ -19,7 +19,6 @@
 
 - 🔭 正在忙 **一些有意思的项目**
 - 🌱 正在学习 **Go**
-- 💬 有事可以聊 **React、TypeScript、Python**
 - 📫 联系方式 **642476404@qq.com**
 - 🌐 博客 **[plutoze.xyz](https://www.plutoze.xyz)**
 ### 🛠 技术栈
