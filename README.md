@@ -52,7 +52,6 @@
   <img src="https://raw.githubusercontent.com/PlutoNebula/PlutoNebula/output/snake.svg" alt="Snake animation" />
 </p>
 
-> 点亮这个需要配置 [Platane/snk](https://github.com/Platane/snk) 的 GitHub Action，用蛇吃掉你的贡献绿点，超解压。
 
 ### 📈 Contribution Graph
 
