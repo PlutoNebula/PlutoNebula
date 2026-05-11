@@ -1,7 +1,7 @@
 # 👋 你好，我是 PlutoNebula
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=且将新火试新茶;腹有诗书气自华;此心安处是吾乡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Not all those who wander are lost;The world is full of magic things;To strive, to seek, to find, and not to yield" alt="Typing SVG" />
 </p>
 
 <p align="center">
