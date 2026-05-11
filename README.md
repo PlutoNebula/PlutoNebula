@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/greenhandatsjtu/steins-gate-visitor-count">
-    <img src="https://steins-gate-visitor-count.greenhandatsjtu.repl.co/PlutoNebula" alt="Visitor Count" />
+    [![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})]
   </a>
 </p>
 
