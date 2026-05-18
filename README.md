@@ -38,12 +38,6 @@
 </p>
 
 ### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlutoNebula&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlutoNebula&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=PlutoNebula&theme=tokyonight&hide_border=true" />
 </p>
