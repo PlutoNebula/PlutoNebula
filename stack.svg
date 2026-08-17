@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 390" role="img" aria-label="技术栈 - 前端 HTML5 CSS3 TypeScript Vue.js；后端 Node.js Python Go；数据库与工具 MySQL Docker Git VS Code Markdown">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#170a08"/>
+      <stop offset="0.5" stop-color="#2e1009"/>
+      <stop offset="1" stop-color="#150a1d"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb877"/>
+      <stop offset="0.55" stop-color="#ff8e4d"/>
+      <stop offset="1" stop-color="#8fd0ff"/>
+    </linearGradient>
+    <radialGradient id="nebGlow">
+      <stop offset="0" stop-color="#ff9355" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#ff9355" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="iceGlow">
+      <stop offset="0" stop-color="#8fd0ff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#8fd0ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="704" height="374" rx="24" fill="url(#bg)" stroke="#ff9355" stroke-opacity="0.20" stroke-width="1.5"/>
+  <ellipse cx="620" cy="70" rx="200" ry="130" fill="url(#iceGlow)"/>
+  <ellipse cx="100" cy="340" rx="200" ry="130" fill="url(#nebGlow)"/>
+
+  <g fill="#ffe3bd">
+    <circle cx="90" cy="60" r="1.6" opacity="0.55"><animate attributeName="opacity" values="0.55;0.15;0.55" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="320" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="180" r="1.4" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#a8d8ff">
+    <circle cx="40" cy="200" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="30" r="1.4" opacity="0.55"><animate attributeName="opacity" values="0.55;0.12;0.55" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="250" r="1.7" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="2.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="'PingFang SC','Microsoft YaHei','Segoe UI',Arial,sans-serif">
+    <circle cx="188" cy="74" r="12" fill="url(#nebGlow)"><animate attributeName="r" values="10;18;10" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="532" cy="74" r="10" fill="url(#iceGlow)"><animate attributeName="r" values="8;15;8" dur="4.2s" repeatCount="indefinite"/></circle>
+    <text x="360" y="80" font-size="30" font-weight="700" fill="url(#titleGrad)" text-anchor="middle" filter="url(#glow)">技术栈</text>
+    <line x1="220" y1="100" x2="500" y2="100" stroke="url(#titleGrad)" stroke-width="2" stroke-dasharray="280" stroke-dashoffset="280">
+      <animate attributeName="stroke-dashoffset" values="280;0" dur="2.5s" fill="freeze"/>
+    </line>
+    <text x="360" y="124" font-size="12" fill="#9fb6c9" text-anchor="middle" letter-spacing="6">TECH STACK</text>
+  </g>
+
+  <g font-family="'PingFang SC','Microsoft YaHei','Segoe UI',Arial,sans-serif">
+    <!-- group 1: 前端 -->
+    <g transform="translate(64,152) scale(0.55)"><path d="M 0 -8 L 2 -2 L 8 0 L 2 2 L 0 8 L -2 2 L -8 0 L -2 -2 Z" fill="#ff9355" filter="url(#glow)"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.2s" repeatCount="indefinite"/></path></g>
+    <text x="90" y="156" font-size="13"><tspan fill="#ff9355" font-weight="700">前端</tspan><tspan fill="#9fb6c9" letter-spacing="2">  FRONTEND</tspan></text>
+    <rect x="186" y="174" width="64" height="34" rx="17" fill="#ff9355" fill-opacity="0.08" stroke="#ff9355" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="218" y="196" font-size="15" fill="#ffcf9e" text-anchor="middle">HTML5</text>
+    <rect x="266" y="174" width="58" height="34" rx="17" fill="#ff9355" fill-opacity="0.08" stroke="#ff9355" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="295" y="196" font-size="15" fill="#ffcf9e" text-anchor="middle">CSS3</text>
+    <rect x="340" y="174" width="104" height="34" rx="17" fill="#ff9355" fill-opacity="0.08" stroke="#ff9355" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="392" y="196" font-size="15" fill="#ffcf9e" text-anchor="middle">TypeScript</text>
+    <rect x="460" y="174" width="74" height="34" rx="17" fill="#ff9355" fill-opacity="0.08" stroke="#ff9355" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="497" y="196" font-size="15" fill="#ffcf9e" text-anchor="middle">Vue.js</text>
+
+    <!-- group 2: 后端 -->
+    <g transform="translate(64,228) scale(0.55)"><path d="M 0 -8 L 2 -2 L 8 0 L 2 2 L 0 8 L -2 2 L -8 0 L -2 -2 Z" fill="#8fd0ff" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;1" dur="3.6s" repeatCount="indefinite"/></path></g>
+    <text x="90" y="232" font-size="13"><tspan fill="#8fd0ff" font-weight="700">后端</tspan><tspan fill="#9fb6c9" letter-spacing="2">  BACKEND</tspan></text>
+    <rect x="242" y="250" width="82" height="34" rx="17" fill="#8fd0ff" fill-opacity="0.08" stroke="#8fd0ff" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="283" y="272" font-size="15" fill="#a8d8ff" text-anchor="middle">Node.js</text>
+    <rect x="340" y="250" width="74" height="34" rx="17" fill="#8fd0ff" fill-opacity="0.08" stroke="#8fd0ff" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="377" y="272" font-size="15" fill="#a8d8ff" text-anchor="middle">Python</text>
+    <rect x="430" y="250" width="48" height="34" rx="17" fill="#8fd0ff" fill-opacity="0.08" stroke="#8fd0ff" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="454" y="272" font-size="15" fill="#a8d8ff" text-anchor="middle">Go</text>
+
+    <!-- group 3: 数据库 & 工具 -->
+    <g transform="translate(64,304) scale(0.55)"><path d="M 0 -8 L 2 -2 L 8 0 L 2 2 L 0 8 L -2 2 L -8 0 L -2 -2 Z" fill="#9fb6c9" filter="url(#glow)"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.4s" repeatCount="indefinite"/></path></g>
+    <text x="90" y="308" font-size="13"><tspan fill="#9fb6c9" font-weight="700">数据库 &amp; 工具</tspan><tspan fill="#5f7487" letter-spacing="2">  DB / TOOLS</tspan></text>
+    <rect x="152" y="326" width="66" height="34" rx="17" fill="#9fb6c9" fill-opacity="0.08" stroke="#9fb6c9" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="185" y="348" font-size="15" fill="#c4d3e3" text-anchor="middle">MySQL</text>
+    <rect x="232" y="326" width="74" height="34" rx="17" fill="#9fb6c9" fill-opacity="0.08" stroke="#9fb6c9" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="269" y="348" font-size="15" fill="#c4d3e3" text-anchor="middle">Docker</text>
+    <rect x="320" y="326" width="44" height="34" rx="17" fill="#9fb6c9" fill-opacity="0.08" stroke="#9fb6c9" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="342" y="348" font-size="15" fill="#c4d3e3" text-anchor="middle">Git</text>
+    <rect x="378" y="326" width="84" height="34" rx="17" fill="#9fb6c9" fill-opacity="0.08" stroke="#9fb6c9" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="420" y="348" font-size="15" fill="#c4d3e3" text-anchor="middle">VS Code</text>
+    <rect x="476" y="326" width="92" height="34" rx="17" fill="#9fb6c9" fill-opacity="0.08" stroke="#9fb6c9" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="522" y="348" font-size="15" fill="#c4d3e3" text-anchor="middle">Markdown</text>
+  </g>
+</svg>

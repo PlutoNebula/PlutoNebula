@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 232" role="img" aria-label="The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep. — Robert Frost">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#170a08"/>
+      <stop offset="0.5" stop-color="#2e1009"/>
+      <stop offset="1" stop-color="#150a1d"/>
+    </linearGradient>
+    <radialGradient id="nebGlow">
+      <stop offset="0" stop-color="#ff9355" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#ff9355" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="iceGlow">
+      <stop offset="0" stop-color="#8fd0ff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#8fd0ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="6" width="704" height="220" rx="24" fill="url(#bg)" stroke="#ff9355" stroke-opacity="0.16" stroke-width="1.5"/>
+  <ellipse cx="360" cy="30" rx="220" ry="70" fill="url(#nebGlow)"/>
+  <ellipse cx="120" cy="210" rx="180" ry="90" fill="url(#iceGlow)"/>
+
+  <g fill="#ffe3bd">
+    <circle cx="70" cy="60" r="1.4" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="90" r="1.6" opacity="0.55"><animate attributeName="opacity" values="0.55;0.14;0.55" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#a8d8ff">
+    <circle cx="680" cy="170" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="50" cy="160" r="1.3" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(360,56)"><path d="M 0 -10 L 2.5 -2.5 L 10 0 L 2.5 2.5 L 0 10 L -2.5 2.5 L -10 0 L -2.5 -2.5 Z" fill="#ff9355" filter="url(#glow)"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.2s" repeatCount="indefinite"/></path></g>
+
+  <g font-family="Georgia,'Times New Roman',serif" text-anchor="middle">
+    <text x="360" y="118" font-size="17" font-style="italic" fill="#f0cba4">“The woods are lovely, dark and deep,</text>
+    <text x="360" y="146" font-size="17" font-style="italic" fill="#f0cba4">But I have promises to keep,</text>
+    <text x="360" y="174" font-size="17" font-style="italic" fill="#f0cba4">And miles to go before I sleep.”</text>
+    <text x="360" y="204" font-size="14" fill="#9fb6c9">— Robert Frost</text>
+  </g>
+
+  <!-- wanderer comet signature -->
+  <g transform="translate(622,196)">
+    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -4; 0 0" dur="5s" repeatCount="indefinite"/>
+    <path d="M 0 0 C -18 -7 -38 -10 -66 -4" fill="none" stroke="#8fd0ff" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+    <circle cx="0" cy="0" r="6" fill="#ffd9a0" filter="url(#glow)"/>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350" role="img" aria-label="漫游日志 - Not all those who wander are lost; The world is full of magic things; To strive, to seek, to find, and not to yield">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#150a1d"/>
+      <stop offset="0.5" stop-color="#2e1009"/>
+      <stop offset="1" stop-color="#170a08"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb877"/>
+      <stop offset="0.55" stop-color="#ff8e4d"/>
+      <stop offset="1" stop-color="#8fd0ff"/>
+    </linearGradient>
+    <radialGradient id="nebGlow">
+      <stop offset="0" stop-color="#ff9355" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#ff9355" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="iceGlow">
+      <stop offset="0" stop-color="#8fd0ff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#8fd0ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="704" height="334" rx="24" fill="url(#bg)" stroke="#8fd0ff" stroke-opacity="0.18" stroke-width="1.5"/>
+  <ellipse cx="560" cy="90" rx="190" ry="130" fill="url(#iceGlow)"/>
+  <ellipse cx="160" cy="310" rx="190" ry="120" fill="url(#nebGlow)"/>
+
+  <g fill="#ffe3bd">
+    <circle cx="60" cy="70" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="130" r="1.6" opacity="0.55"><animate attributeName="opacity" values="0.55;0.14;0.55" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="100" cy="240" r="1.4" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#a8d8ff">
+    <circle cx="520" cy="40" r="1.4" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="680" cy="300" r="1.7" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="180" r="1.3" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="'PingFang SC','Microsoft YaHei','Segoe UI',Arial,sans-serif">
+    <circle cx="188" cy="70" r="12" fill="url(#nebGlow)"><animate attributeName="r" values="10;18;10" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="532" cy="70" r="10" fill="url(#iceGlow)"><animate attributeName="r" values="8;15;8" dur="4.2s" repeatCount="indefinite"/></circle>
+    <text x="360" y="76" font-size="30" font-weight="700" fill="url(#titleGrad)" text-anchor="middle" filter="url(#glow)">漫游日志</text>
+    <line x1="220" y1="96" x2="500" y2="96" stroke="url(#titleGrad)" stroke-width="2" stroke-dasharray="280" stroke-dashoffset="280">
+      <animate attributeName="stroke-dashoffset" values="280;0" dur="2.5s" fill="freeze"/>
+    </line>
+    <text x="360" y="120" font-size="12" fill="#9fb6c9" text-anchor="middle" letter-spacing="6">WANDERER'S LOG</text>
+  </g>
+
+  <!-- trajectory -->
+  <path d="M 210 168 Q 300 220 510 296" fill="none" stroke="#8fd0ff" stroke-width="2" stroke-dasharray="2 10" stroke-linecap="round" opacity="0.55">
+    <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Georgia,'Times New Roman',serif">
+    <g transform="translate(210,168)"><path d="M 0 -9 L 2.5 -2.5 L 9 0 L 2.5 2.5 L 0 9 L -2.5 2.5 L -9 0 L -2.5 -2.5 Z" fill="#ff9355" filter="url(#glow)"><animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></path></g>
+    <text x="244" y="174" font-size="16" font-style="italic" fill="#f0cba4">Not all those who wander are lost</text>
+
+    <g transform="translate(360,232)"><path d="M 0 -9 L 2.5 -2.5 L 9 0 L 2.5 2.5 L 0 9 L -2.5 2.5 L -9 0 L -2.5 -2.5 Z" fill="#8fd0ff" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;1" dur="3.7s" repeatCount="indefinite"/></path></g>
+    <text x="360" y="238" font-size="16" font-style="italic" fill="#f0cba4" text-anchor="middle">The world is full of magic things</text>
+
+    <g transform="translate(510,296)"><path d="M 0 -9 L 2.5 -2.5 L 9 0 L 2.5 2.5 L 0 9 L -2.5 2.5 L -9 0 L -2.5 -2.5 Z" fill="#ff9355" filter="url(#glow)"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.4s" repeatCount="indefinite"/></path></g>
+    <text x="476" y="302" font-size="16" font-style="italic" fill="#f0cba4" text-anchor="end">To strive, to seek, to find, and not to yield</text>
+  </g>
+</svg>
