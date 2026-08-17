@@ -20,6 +20,18 @@ jobs:
           outputs: |
             dist/snake.svg
 
+      - name: Recolor snake to PlutoNebula palette
+        run: |
+          sed -i \
+            -e 's/--cs:[^;]*/--cs:#8fd0ff/' \
+            -e 's/--ce:#ebedf0/--ce:#1a0f14/' \
+            -e 's/--c0:#ebedf0/--c0:#1a0f14/' \
+            -e 's/--c1:#9be9a8/--c1:#3a1f16/' \
+            -e 's/--c2:#40c463/--c2:#7a3a20/' \
+            -e 's/--c3:#30a14e/--c3:#c96a35/' \
+            -e 's/--c4:#216e39/--c4:#ff9355/' \
+            dist/snake.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
