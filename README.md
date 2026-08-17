@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="PlutoNebula banner - a wandering comet" />
+</p>
+
 # 👋 你好，我是 PlutoNebula
 
 <p align="center">
