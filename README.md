@@ -21,7 +21,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlutoNebula&bg_color=1a0f14&title_color=ff9355&text_color=f0cba4&icon_color=8fd0ff&border_color=ff9355" alt="活跃时段" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlutoNebula&bg_color=1a0f14&title_color=ff9355&text_color=f0cba4&icon_color=8fd0ff&border_color=ff9355" alt="主力语言" />
 </p>
 
 <p align="center">
