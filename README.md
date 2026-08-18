@@ -20,7 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PlutoNebula&hide_border=true&background=1a0f14&stroke=8fd0ff&ring=ff9355&fire=ff9355&currStreakNum=f0cba4&sideNums=f0cba4&currStreakLabel=ffb877&sideLabels=9fb6c9&dates=9fb6c9&border_radius=12" alt="连续打卡" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlutoNebula&bg_color=1a0f14&title_color=ff9355&text_color=f0cba4&icon_color=8fd0ff&border_color=ff9355" alt="活跃时段" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlutoNebula&bg_color=1a0f14&title_color=ff9355&text_color=f0cba4&icon_color=8fd0ff&border_color=ff9355" alt="主力语言" />
 </p>
 
 <p align="center">
