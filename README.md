@@ -23,9 +23,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlutoNebula&bg_color=1a0f14&title_color=ff9355&text_color=f0cba4&icon_color=8fd0ff&border_color=ff9355" alt="活跃时段" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PlutoNebula&hide_border=true&bg_color=1a0f14&title_color=f0cba4&color=9fb6c9&line=ff9355&point=8fd0ff&area=true&area_color=ff9355" alt="贡献图表" />
-</p>
 
 <p align="center">
   <img src="journey.svg" alt="漫游日志：Not all those who wander are lost; The world is full of magic things; To strive, to seek, to find, and not to yield" />
